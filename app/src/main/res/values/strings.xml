@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de tarefas</string>
+    <string name="nova_tarefa">Nova Tarefa:</string>
+    <string name="data_tarefa">Data:</string>
+    <string name="descricao_tarefa">Descrição:</string>
+    <string name="salvar_tarefa">Salvar Tarefa</string>
+    <string name="excluir_tarefa">Excluir Tarefa</string>
+    <string name="buscar">Buscar:</string>
+
+</resources>
